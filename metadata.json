@@ -1,0 +1,6 @@
+{
+  "name": "Mascote Virtual Espacial",
+  "description": "Um jogo interativo de mascote virtual espacial onde você cuida de um bichinho alienígena fofo, alimenta, dá banho e joga minijogos divertidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
